@@ -28,9 +28,4 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 
 ## Abrir e Executar o Projeto 
 
-1. Clone o repositório
-```sh
- git clone ...
-´
-```
-2. Abra o arquivo `ìndex.html` no seu navegador ou experimentea utilizar a aplicação que foi publicada [nesta pagina](...)
+1. Abra o arquivo `ìndex.html` no seu navegador ou experimentea utilizar a aplicação que foi publicada [nesta pagina](https://amigo-secreto-alura-one-green.vercel.app/)
