@@ -30,7 +30,7 @@ Os nomes inseridos serão exibidos em uma lista visível na página, e ao finali
 
 1. Clone o repositório
 ```sh
- git clone https://github.com/GleiceAraujo22/challenge-amigo-secreto.git
+ git clone ...
 ´
 ```
-2. Abra o arquivo `ìndex.html` no seu navegador ou experimentea utilizar a aplicação que foi publicada [nesta pagina](https://sorteador-amigo-secreto-murex.vercel.app/)
+2. Abra o arquivo `ìndex.html` no seu navegador ou experimentea utilizar a aplicação que foi publicada [nesta pagina](...)
